@@ -1,0 +1,50 @@
+	Symbol: ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1102, reqId -1: Connectivity between IB and Trader Workstation has been restored - data maintained.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1102, reqId -1: Connectivity between IB and Trader Workstation has been restored - data maintained.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1102, reqId -1: Connectivity between IB and Trader Workstation has been restored - data maintained.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1102, reqId -1: Connectivity between IB and Trader Workstation has been restored - data maintained.

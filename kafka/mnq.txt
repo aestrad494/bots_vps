@@ -1,0 +1,4 @@
+	Symbol: Traceback (most recent call last):
+  File "Data_Generator_Kafka.py", line 82, in <module>
+    symbol = input('\tSymbol: ')
+KeyboardInterrupt
