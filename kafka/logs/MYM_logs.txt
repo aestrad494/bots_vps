@@ -1,0 +1,35 @@
+Trying to Connect to Trading Platform...
+<IB connected to 127.0.0.1:7497 clientId=170>
+2021-06-22 22:12:10 | Data Generator Bot Turned On
+Downloading Historical MYM Data...
+2021-06-08 00
+Data Loaded
+Historical Data retrieved! from 2021-06-08 00:00:05 to 2021-06-22 22:12:10
+                        open     high      low    close  volume
+2021-06-22 22:11:50  33902.0  33902.0  33902.0  33902.0       1
+2021-06-22 22:11:55  33902.0  33902.0  33902.0  33902.0       1
+2021-06-22 22:12:00  33903.0  33904.0  33902.0  33904.0      14
+2021-06-22 22:12:05  33903.0  33903.0  33903.0  33903.0       2
+2021-06-22 22:12:10  33904.0  33904.0  33904.0  33904.0       6
+                        open     high      low    close  volume
+2021-06-22 22:12:15  33904.0  33904.0  33904.0  33904.0       0
+                        open     high      low    close  volume
+2021-06-22 22:12:20  33905.0  33906.0  33905.0  33905.0      11
+                        open     high      low    close  volume
+2021-06-22 22:12:25  33905.0  33905.0  33905.0  33905.0       1
+                        open     high      low    close  volume
+2021-06-22 22:12:30  33905.0  33905.0  33905.0  33905.0       0
+                        open     high      low    close  volume
+2021-06-22 22:12:35  33905.0  33905.0  33905.0  33905.0       0
+                        open     high      low    close  volume
+2021-06-22 22:12:40  33905.0  33905.0  33905.0  33905.0       1
+                        open     high      low    close  volume
+2021-06-22 22:12:45  33905.0  33905.0  33905.0  33905.0       0
+                        open     high      low    close  volume
+2021-06-22 22:12:55  33900.0  33900.0  33900.0  33900.0       1
+                        open     high      low    close  volume
+2021-06-22 22:13:00  33898.0  33900.0  33898.0  33900.0       9
+                        open     high      low    close  volume
+2021-06-22 22:13:05  33900.0  33900.0  33899.0  33899.0       6
+                        open     high      low    close  volume
+2021-06-22 22:13:10  33899.0  33899.0  33899.0  33899.0       0
