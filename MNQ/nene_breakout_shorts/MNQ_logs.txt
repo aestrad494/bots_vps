@@ -1,0 +1,14 @@
+Trying to Connect to Trading Platform...
+<IB connected to 127.0.0.1:7497 clientId=75>
+No opened positions in MES
+2021-10-01 00:29:50 | Nene Breakout Bot Turned On
+2021-10-01 00:29:50 | Running with stop: 1 & target_1: 15 & target_2: 5 & num_bars: 7 & trailing: 0 & num_days: 3
+Downloading Historical MES Data...
+Historical Data retrieved! from 2021-09-13 00:00:20 to 2021-10-01 00:29:40
+Calculating Brick Size...
+Brick Size: 13.25
+score: 1.18
+Calculating Renko Bars...
+72
+Renko Bars calculated!
+2021-10-01 00:30:20 | new bar 72 [1. 0.]
