@@ -1,0 +1,18 @@
+/root/miniconda3/lib/python3.8/site-packages/arctic/store/_pandas_ndarray_store.py:8: FutureWarning: The Panel class is removed from pandas. Accessing it from the top-level namespace will also be removed in the next version
+  from pandas import Panel
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1102, reqId -1: Connectivity between IB and Trader Workstation has been restored - data maintained.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1102, reqId -1: Connectivity between IB and Trader Workstation has been restored - data maintained.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 200, reqId 135: No security definition has been found for the request, contract: Future(symbol='MNQ', exchange='GLOBEX', localSymbol='MNQZ1')
+Traceback (most recent call last):
+  File "Live_Hermes_Shorts_MNQ_tr.py", line 503, in <module>
+    live_hermes.run_strategy(contracts=2, pattern=pattern, stop=3, target_1=3, target_2=5, num_bars=12, trailing=0.8, lr_period=10, 
+  File "Live_Hermes_Shorts_MNQ_tr.py", line 403, in run_strategy
+    price_sell_in_1, sl_sell_1, tp_sell_1, time_sell_in, comm_sell_in_1, profit_sell, ord_sell_sl_1, ord_sell_tp_1 = self.braket_market('SELL', contracts/2, stop*brick, target_1*brick, max_stop)
+  File "/datos/codes/bots/MNQ/hermes_shorts/Live_Class.py", line 516, in braket_market
+    allow_margin = self.check_margins(qty, action, max_stop=max_stop)
+  File "/datos/codes/bots/MNQ/hermes_shorts/Live_Class.py", line 903, in check_margins
+    order_data = util.tree(self.ib.whatIfOrder(self.contract, order))['OrderState']
+TypeError: list indices must be integers or slices, not str

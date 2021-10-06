@@ -1,0 +1,18 @@
+Trying to Connect to Trading Platform...
+<IB connected to 127.0.0.1:7497 clientId=70>
+No opened positions in MNQ
+2021-10-01 00:26:56 | Hermes Shorts 2 Contracts Bot Turned On
+2021-10-01 00:26:56 | Running with stop: 3 & target_1: 3 & target_2: 5 & num_bars: 12 & trailing: 0.80 & lr_period: 10 & lr_previous_1: 4  & lr_previous_2: 5 & lr_distance_1: 1 & lr_distance_2: 5 & num_days: 4
+Downloading Historical MNQ Data...
+Historical Data retrieved! from 2021-09-13 00:00:00 to 2021-10-01 00:26:45
+Calculating Brick Size...
+Data from 2021-09-27 00:00:00 until 2021-09-30 23:59:55
+Brick Size: 24.00
+score: 3.22
+Calculating Renko Bars...
+306
+Renko Bars calculated!
+2021-10-01 00:27:30 | new bar 306 [4. 3. 2. 1. 0.]
+2021-10-01 02:20:25 | new bar 307 [4. 3. 2. 1. 0.]
+3.98 1
+4.42 5
