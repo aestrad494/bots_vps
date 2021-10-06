@@ -1,0 +1,76 @@
+/root/miniconda3/lib/python3.8/site-packages/arctic/store/_pandas_ndarray_store.py:8: FutureWarning: The Panel class is removed from pandas. Accessing it from the top-level namespace will also be removed in the next version
+  from pandas import Panel
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1102, reqId -1: Connectivity between IB and Trader Workstation has been restored - data maintained.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1102, reqId -1: Connectivity between IB and Trader Workstation has been restored - data maintained.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1102, reqId -1: Connectivity between IB and Trader Workstation has been restored - data maintained.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1102, reqId -1: Connectivity between IB and Trader Workstation has been restored - data maintained.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1102, reqId -1: Connectivity between IB and Trader Workstation has been restored - data maintained.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1102, reqId -1: Connectivity between IB and Trader Workstation has been restored - data maintained.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1102, reqId -1: Connectivity between IB and Trader Workstation has been restored - data maintained.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1102, reqId -1: Connectivity between IB and Trader Workstation has been restored - data maintained.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1102, reqId -1: Connectivity between IB and Trader Workstation has been restored - data maintained.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1102, reqId -1: Connectivity between IB and Trader Workstation has been restored - data maintained.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1102, reqId -1: Connectivity between IB and Trader Workstation has been restored - data maintained.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1102, reqId -1: Connectivity between IB and Trader Workstation has been restored - data maintained.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1102, reqId -1: Connectivity between IB and Trader Workstation has been restored - data maintained.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 200, reqId 10: No security definition has been found for the request, contract: Future(symbol='MNQ', exchange='GLOBEX', localSymbol='MNQZ1')
+Traceback (most recent call last):
+  File "Live_Hermes_Longs_Rev_MNQ_tr.py", line 594, in <module>
+    live_hermes.run_strategy(contracts=2, pattern=pattern, stop=3, target_1=2, target_2=3, num_bars=12, trailing=0.5, lr_period=10, 
+  File "Live_Hermes_Longs_Rev_MNQ_tr.py", line 411, in run_strategy
+    price_buy_in_1, sl_buy_1, tp_buy_1, time_buy_in, comm_buy_in_1, profit_buy, ord_buy_sl_1, ord_buy_tp_1 = self.braket_market('BUY', contracts/2, stop*brick, target_1*brick, max_stop)
+  File "/datos/codes/bots/MNQ/hermes_longs_reversal/Live_Class.py", line 516, in braket_market
+    allow_margin = self.check_margins(qty, action, max_stop=max_stop)
+  File "/datos/codes/bots/MNQ/hermes_longs_reversal/Live_Class.py", line 903, in check_margins
+    order_data = util.tree(self.ib.whatIfOrder(self.contract, order))['OrderState']
+TypeError: list indices must be integers or slices, not str
