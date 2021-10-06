@@ -1,0 +1,30 @@
+Trying to Connect to Trading Platform...
+<IB connected to 127.0.0.1:7497 clientId=76>
+No opened positions in MES
+2021-10-01 00:29:39 | Nene Breakout Bot Turned On
+2021-10-01 00:29:39 | Running with stop: 3 & target_1: 10 & target_2: 5 & num_bars: 12 & trailing: 0 & num_days: 3
+Downloading Historical MES Data...
+Historical Data retrieved! from 2021-09-13 00:00:20 to 2021-10-01 00:29:25
+Calculating Brick Size...
+Brick Size: 6.25
+score: 0.79
+Calculating Renko Bars...
+296
+Renko Bars calculated!
+2021-10-01 00:30:10 | new bar 296 [1. 0.]
+2021-10-01 02:20:30 | new bar 297 [1. 0.]
+minus_di: 31.38 , plus_di: 20.57 , midline: 4276.83 , upper_band: 4285.13 , lower_band: 4268.53
+2021-10-01 02:54:35 | new bar 298 [1. 0.]
+minus_di: 34.63 , plus_di: 12.16 , midline: 4273.03 , upper_band: 4281.91 , lower_band: 4264.16
+2021-10-01 03:21:25 | new bar 299 [-2.  0.]
+minus_di: 22.91 , plus_di: 14.30 , midline: 4272.67 , upper_band: 4283.47 , lower_band: 4261.87
+2021-10-01 03:28:55 | new bar 300 [-1.  0.]
+minus_di: 18.54 , plus_di: 25.75 , midline: 4273.47 , upper_band: 4285.10 , lower_band: 4261.85
+2021-10-01 04:18:05 | new bar 301 [2. 0.]
+minus_di: 21.59 , plus_di: 18.96 , midline: 4273.18 , upper_band: 4287.58 , lower_band: 4258.78
+2021-10-01 06:14:45 | new bar 302 [-2.  0.]
+minus_di: 11.17 , plus_di: 27.24 , midline: 4274.49 , upper_band: 4287.84 , lower_band: 4261.14
+2021-10-01 07:05:05 | new bar 303 [-1.  0.]
+minus_di: 8.44 , plus_di: 33.01 , midline: 4277.38 , upper_band: 4288.00 , lower_band: 4266.75
+2021-10-01 07:16:50 | new bar 304 [-1.  0.]
+minus_di: 6.87 , plus_di: 41.53 , midline: 4278.94 , upper_band: 4289.27 , lower_band: 4268.62
