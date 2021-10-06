@@ -1,0 +1,379 @@
+/root/miniconda3/lib/python3.8/site-packages/arctic/store/_pandas_ndarray_store.py:8: FutureWarning: The Panel class is removed from pandas. Accessing it from the top-level namespace will also be removed in the next version
+  from pandas import Panel
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1102, reqId -1: Connectivity between IB and Trader Workstation has been restored - data maintained.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1102, reqId -1: Connectivity between IB and Trader Workstation has been restored - data maintained.
+ERROR:ib_insync.wrapper:Error 1100, reqId -1: Connectivity between IB and Trader Workstation has been lost.
+ERROR:ib_insync.wrapper:Error 1102, reqId -1: Connectivity between IB and Trader Workstation has been restored - data maintained.
+ERROR:kafka.conn:<BrokerConnection node_id=1 host=157.245.223.103:9092 <connected> [IPv4 ('157.245.223.103', 9092)]>: socket disconnected
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.consumer.fetcher:Fetch to node 1 failed: KafkaConnectionError: socket disconnected
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 111. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 111. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=157.245.223.103:9092 <connecting> [IPv4 ('157.245.223.103', 9092)]> returned error 110. Disconnecting.
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
